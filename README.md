@@ -1,1 +1,1 @@
-# Checkers-Endgame-Solver
+# Checkers Endgame Solver
